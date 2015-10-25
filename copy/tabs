@@ -1,18 +1,20 @@
 DIGIAL COMMONS
-The digital commons is important. Like ancient commons, they give people places where they can associate, assemble, and communicate safely. We believe the digital commons should be built with free, open source software.
+The digital commons is important. Commons are places where people can associate, assemble, and communicate safely. We believe the digital commons should be built with free, open source software. Boston Meshnet uses cjdns, an experimental routing software, to protect all traffic in the mesh network.
+
+VISION
+Boston Meshnet is a volunteer project to build a community-controlled Internet Service Provider (ISP). We're working on every layer, focusing on open source solutions, so that anyone who wants to become part of the network can build a node and connect with ease. We are committed to practical democratic principles, including:
+* We work with what's available 
+* Decisions are made by who shows up
 
 WORLDWIDE EFFORTS
-List of other efforts. Link to Wikipedia. Call out MetaMesh, NYCMesh, Freifunk, Italy, Slovenia, Spain, EyeBeam, Community Box, others(?)
+There are mesh networks all over the world. Boston Meshnet affiliates itself with the Hyperboria project. In the United States, mesh networking groups are doing amazing work in Pittsburgh (MetaMesh), Seattle (Seattle Meshnet Project), New York City (NYCMesh), and Oakland (Sudo Mesh). These communities are very young compared to mesh networks in Germany (Freifunk), Italy, Spain, and Slovenia. Their networks contain tens of thousands of nodes. More information about these how these communities partner is available online. Visit the #channels on IRC.
 
-ABOUT MESH NETWORKING
-WNDW
+MESH NETWORKING
+People connect to the Internet over thousands of miles of copper, fiber optic, and submarine (!) cable. We can use computers and digital communication to reach each other without accessing the Internet, though. Your typical Local Area Network (LAN) is closed to the outside but still good for sharing files and communicating. Mesh networks work by building line-of-sight connections among roof antennae. The antennae are nodes in the network. Networks mesh together when they share nodes. Mesh networking supports a decentralized version of communications. 
 
-ABOUT CRYPTOGRAPHY
-Cryptography 101
-Networking softare
-CJDNS
+CRYPTOGRAPHY
+Puzzles, ciphers, hashes, codes, secrets. Cryptography is a subfield of mathematics used to programmatically scramble and unscramble messages. Public key cryptography, also called asymmetrical cryptography, uses pairings of public and private keys to encrypt messages between people. You create a public and a private key for yourself. You hide your private key and use your private key to decrypt messages sent to you. A friend uses your public key (hence public!) to encrypt a message to you, so that only you can decrypt the message your friend sent. cjdns encrypts traffic between routers. Learn more about the technology here. 
 
-ABOUT US 
-Meeting dates
-Contact
-Mailing list
+US
+We meet every month at Boston's cryptoparties. Contact us at xxx. Or join our mailing list. We're actively looking for volunteer developers. Public key: 
+
